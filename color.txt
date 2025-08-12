@@ -1,0 +1,14 @@
+
+Deep Maroon (#800000)
+
+Golden Yellow (#FFD700)
+
+Warm Beige (#F5F5DC)
+
+
+
+git pull origin main
+git add .
+git commit -m "Updated site"
+git push origin main
+git pull origin main
